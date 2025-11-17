@@ -1,14 +1,9 @@
 ## Hi there 👋
-
-<!--
-**Hamzadev-web-mobile/Hamzadev-web-mobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Ai products name as bytely.ai
+- 🧑‍💻 8+ years of expereince in web and mobile development
+- 🔭 I’m currently working on Ai product name as bytely.ai
 - 🌱 I’m currently learning AI automations and N8N workflows
-- 👯 I’m looking to collaborate on small, medium and big projects or products. 
-- 💬 Ask me about projects/ products / Ai / Automations
+- 👯 I’m looking to collaborate on small, medium and big projects / products. (wordpress, shopify, elementor, custom coding)
+- 💬 Ask me about Wordpress , Shopify , React , JavaScript, ios, android, AI
 - 📫 How to reach me: hamzaqaiser9969@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Availability: I amavailable in EST timezone 8:00 am - 5:00 pm
+- ⌛️ Availability: I am Available in EST timezones
